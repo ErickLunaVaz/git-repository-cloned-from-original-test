@@ -13,3 +13,7 @@ function practiceCreatingBranchFromASpecificCommit(){
 function addeddFurFun(){
     console.log("this function was addedd just fur fun");
 }
+
+function practicingWithRemoteRepos(){
+    console.log("to check the url of your remote repos use the git remote -v command");
+}
