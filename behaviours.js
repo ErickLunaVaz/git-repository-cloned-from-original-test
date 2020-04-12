@@ -17,3 +17,7 @@ function addeddFurFun(){
 function practicingWithRemoteRepos(){
     console.log("to check the url of your remote repos use the git remote -v command");
 }
+
+function oneMorePracticingFunction(){
+    console.log("to get the lates changes from a remote branch we use git fetch command");
+}
