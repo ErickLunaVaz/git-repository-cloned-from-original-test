@@ -21,3 +21,7 @@ function practicingWithRemoteRepos(){
 function oneMorePracticingFunction(){
     console.log("to get the lates changes from a remote branch we use git fetch command");
 }
+
+function practicingGitPushCommand(){
+    console.log("using git push command");
+}
